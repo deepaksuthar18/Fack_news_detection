@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+torch
+transformers
+nltk
+spacy
+emoji
+beautifulsoup4
+langdetect
+textblob
